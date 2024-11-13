@@ -1,0 +1,30 @@
+body {
+    color:white;
+    background:rgb(255, 129, 207);
+    margin:0px;
+    font-family: "Ruge Boogie", cursive;
+    margin-bottom:100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(186, 66, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(56, 192, 255);
+}
+
+.chamada {
+    background: rgb(255, 249, 163);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
